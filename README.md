@@ -4,6 +4,7 @@ Universidad de Palermo
 ## Integrantes
 - Santino Buttazzoni
 - Santino Mogliati
+- Rodrigo Mansilla
 
 ## Descripción
 Configuración de un servidor Debian 12 sobre máquina virtual: usuarios y acceso
